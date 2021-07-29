@@ -1,0 +1,26 @@
+        /* Google font */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+        /* Common style */
+ body{
+    font-family: 'Poppins', sans-serif;
+}
+        /* for scroll bar in mobile device */
+main{
+    overflow: hidden;
+}
+        /* header section style */
+header{
+    background-color:#264653;
+}
+.button{
+    background-color:#E76F51;
+    ;
+}
+/* divider */
+hr{
+    width: 58px;
+}
+ /* Future image grayscale */
+.grayscale{
+    filter: grayscale(100%);
+}
