@@ -20,7 +20,7 @@ header{
 hr{
     width: 58px;
 }
- /* Future image grayscale */
+ /* Featured image grayscale */
 .grayscale{
     filter: grayscale(100%);
 }
